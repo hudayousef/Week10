@@ -1,1 +1,3 @@
 red rover
+Name: Ator
+Book title: Atomic Habits
